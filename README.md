@@ -4,6 +4,7 @@ Tervist, kallis õpilane. Siin repos on kõik su kodutööd ja info järgmisteks
 # MEELESPEA
 Kursuse oskuste ja muude ressursside mitteõiguspärane kasutamine võib kaasa tuua õiguslikke tagajärgi. Kui otsustad neid ikkagi enda kasu saamiseks kasutada - palun ära räägi teistele kes sind seda õpetas :)
 Kursusel ei saa edeneda, kui sul pole oma GitHub repo tehtud ja minuga (xccr2) jagatud (Deadline 22.01.2024). Olen teadlik sellest, kuidas ChatGPT ja teisi AI kasutada ning oskan ka inimese ja tehisintellekti teksti eristada, seega palun ära AI selles kursuses kasuta. 
+**KODUARVUTI OLEMASOLU ON KOHUSTUSLIK** sest kuidas sa tahad kodutöid teha ilma arvutita :)
 
 # HINDAMINE
 Hindeline kursus.
