@@ -1,6 +1,6 @@
 # KODUTÖÖ 30.01
 
-Ootan teilt koduarvutile installeeritud Ubuntu kuvatõmmist koos terminaliga, kus on näha hostname´ina teie nime formaadis NimiP (nt. NikitaZ). Hostname´i vahetus toimub "nmtui" käsuga.
+Ootan teilt koduarvutile installeeritud Ubuntu kuvatõmmist koos terminaliga, kus on näha hostname´ina teie nime formaadis NimiP (nt. NikitaZ). Hostname´i vahetus toimub "nmtui" või "hostnamectl" käsuga.
 
 Ubuntu võite paigaldada GRUB´i dual bootina (kes oskab) või VMware/VirtualBox kasutamisega.
 
